@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KALKULATOR CZASU</string>
+    <string name="button1">DATY</string>
+    <string name="button2">CZAS</string>
+    <string name="daysText">Dni pomiędzy datami:</string>
+    <string name="button3">+</string>
+    <string name="workingDaysText">Dni roboczych pomiędzy datami:</string>
+    <string name="button4">-</string>
+    <string name="textM">M</string>
+    <string name="textH">H</string>
+    <string name="textS">S</string>
+    <string name="buttonAC">AC</string>
+    <string name="clearedValue">00</string>
+</resources>
